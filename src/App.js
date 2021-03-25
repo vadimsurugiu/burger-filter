@@ -72,7 +72,7 @@ function App() {
     {
       id: 7,
       image: 'https://sweetsimplevegan.com/wp-content/uploads/2019/06/Easy-5-Ingredient-Veggie-Burgers-Sweet-Simple-Vegan-thumbnail.jpg',
-      name: 'Vegan hamburger',
+      name: 'Vegan Burger',
       price: 25,
     },
     {
